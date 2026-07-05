@@ -1,0 +1,13 @@
+factors:
+  eur_sek:
+    source: yahoo
+    ticker: EURSEK=X
+  brent_oil:
+    source: yahoo
+    ticker: BZ=F
+  copper:
+    source: yahoo
+    ticker: HG=F
+  omx:
+    source: yahoo
+    ticker: ^OMXSPI      
