@@ -10,4 +10,10 @@ factors:
     ticker: HG=F
   omx:
     source: yahoo
-    ticker: ^OMXSPI      
+    ticker: ^OMXSPI
+  fed_rate:
+    source: fred
+    ticker: DFF
+  inflation:
+    source: fred
+    ticker: CPIAUCSL        
